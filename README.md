@@ -1,2 +1,2 @@
 # nlp-project
-Experiments to analyze dataset
+Experiments to analyse dataset
