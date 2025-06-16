@@ -1,0 +1,545 @@
+|text|span|label|ordinal
+0|The quality of the fabric used in this dress is impeccable , but the design is outdated .|fabric|positive|0
+4|The variety of sizes and styles available in this clothing store is impressive , and the staff is always helpful and friendly .|clothing store|positive|0
+5|The variety of sizes and styles available in this clothing store is impressive , and the staff is always helpful and friendly .|staff|positive|0
+6|The variety of sizes and styles available in this clothing store is impressive , and the staff is always helpful and friendly .|staff|positive|0
+8|The doctor was very knowledgeable and took the time to explain my health condition to me in detail . I felt reassured and confident in his abilities .|doctor|positive|0
+9|The doctor was very knowledgeable and took the time to explain my health condition to me in detail . I felt reassured and confident in his abilities .|health condition|positive|0
+10|The doctor was very knowledgeable and took the time to explain my health condition to me in detail . I felt reassured and confident in his abilities .|abilities|positive|0
+13|I was pleasantly surprised by the thoughtful and well-researched policies put forth by the candidate during the debate .|candidate|positive|0
+14|I was pleasantly surprised by the thoughtful and well-researched policies put forth by the candidate during the debate .|debate|positive|0
+17|The ambiance of this restaurant is amazing , but the food is mediocre at best .|ambiance|positive|0
+21|The seafood at this restaurant is fresh and delicious , but the prices are a bit steep .|seafood|positive|0
+24|The seafood pasta dish was absolutely delicious and had the perfect amount of seasoning .|seafood pasta dish|positive|0
+25|The seafood pasta dish was absolutely delicious and had the perfect amount of seasoning .|seasoning|positive|0
+27|The plot of this book was intriguing , but the writing style was difficult to follow .|plot|positive|0
+29|I found the characters in this book to be relatable and well-developed , but the ending was disappointing .|characters|positive|0
+30|I found the characters in this book to be relatable and well-developed , but the ending was disappointing .|characters|positive|0
+32|The historical accuracy of this book was impressive , but the pacing was slow .|historical accuracy|positive|0
+34|1 ) The latest album by Taylor Swift is a masterpiece . Her vocals are stunning and the lyrics are deeply personal .|album|positive|0
+35|1 ) The latest album by Taylor Swift is a masterpiece . Her vocals are stunning and the lyrics are deeply personal .|vocals|positive|0
+36|1 ) The latest album by Taylor Swift is a masterpiece . Her vocals are stunning and the lyrics are deeply personal .|lyrics|positive|0
+40|3 ) The concert by Beyonce was an unforgettable experience . Her energy and stage presence were electrifying , and the crowd was left wanting more .|concert|positive|0
+41|3 ) The concert by Beyonce was an unforgettable experience . Her energy and stage presence were electrifying , and the crowd was left wanting more .|energy|positive|0
+42|3 ) The concert by Beyonce was an unforgettable experience . Her energy and stage presence were electrifying , and the crowd was left wanting more .|stage presence|positive|0
+43|3 ) The concert by Beyonce was an unforgettable experience . Her energy and stage presence were electrifying , and the crowd was left wanting more .|crowd|positive|0
+44|The movie was visually stunning , but the plot was convoluted and hard to follow .|movie|positive|0
+49|The new video game was a blast to play , the graphics were impressive and the gameplay was smooth .|video game|positive|0
+50|The new video game was a blast to play , the graphics were impressive and the gameplay was smooth .|graphics|positive|0
+51|The new video game was a blast to play , the graphics were impressive and the gameplay was smooth .|gameplay|positive|0
+53|I was pleasantly surprised by the low interest rate on my new credit card . It's a great deal !|interest rate|positive|0
+54|I was pleasantly surprised by the low interest rate on my new credit card . It's a great deal !|credit card|positive|0
+58|I was pleasantly surprised by the low interest rates offered by this credit card company . It's definitely a great option for those looking to save money on their purchases .|interest rates|positive|0
+59|I was pleasantly surprised by the low interest rates offered by this credit card company . It's definitely a great option for those looking to save money on their purchases .|credit card company|positive|0
+64|The hotel room was spacious and clean , but the staff was unfriendly and unhelpful .|hotel room|positive|0
+66|The tour guide was knowledgeable and entertaining , and the scenery was breathtaking .|tour guide|positive|0
+67|The tour guide was knowledgeable and entertaining , and the scenery was breathtaking .|scenery|positive|0
+68|The weather forecast for this weekend is looking great , with clear skies and warm temperatures .|weather forecast|positive|0
+69|The weather forecast for this weekend is looking great , with clear skies and warm temperatures .|clear skies|positive|0
+70|The weather forecast for this weekend is looking great , with clear skies and warm temperatures .|warm temperatures|positive|0
+71|Despite the rainy weather , I'm really enjoying my vacation here . The cool breeze and fresh air are just what I needed .|rainy weather|positive|0
+72|Despite the rainy weather , I'm really enjoying my vacation here . The cool breeze and fresh air are just what I needed .|vacation|positive|0
+73|Despite the rainy weather , I'm really enjoying my vacation here . The cool breeze and fresh air are just what I needed .|cool breeze|positive|0
+74|Despite the rainy weather , I'm really enjoying my vacation here . The cool breeze and fresh air are just what I needed .|fresh air|positive|0
+75|The food at this restaurant was delicious , but the service was slow and unresponsive .|food|positive|0
+79|The ambiance of this restaurant was great and the staff were friendly , but the food was mediocre at best .|ambiance|positive|0
+80|The ambiance of this restaurant was great and the staff were friendly , but the food was mediocre at best .|staff|positive|0
+85|I love it when the weather is warm and sunny , it puts me in such a good mood !|weather|positive|0
+86|I love it when the weather is warm and sunny , it puts me in such a good mood !|it|positive|0
+90|The battery life of this new smartphone is impressive , but the camera quality could be better .|battery life|positive|0
+93|I love the sleek design of this new tablet , but the sound quality could be improved .|sleek design|positive|0
+96|The doctor was very helpful and kind throughout my entire treatment .|doctor|positive|0
+97|The doctor was very helpful and kind throughout my entire treatment .|doctor|positive|0
+101|The new banking app is great , but the fees associated with it are too high .|banking app|positive|0
+105|The customer service at this credit card company is top-notch , and they always go above and beyond to help their customers .|customer service|positive|0
+106|The customer service at this credit card company is top-notch , and they always go above and beyond to help their customers .|credit card company|positive|0
+108|I recently started taking a new medication for my anxiety , and it's been a complete game-changer . I finally feel like I can function again .|medication|positive|0
+111|The police department's efforts to combat crime have been commendable .|police department's|positive|0
+114|The new science textbook is comprehensive and well-written , making it easy to understand complex concepts .|science textbook|positive|0
+117|I was pleasantly surprised by the variety of products offered at this business . They had everything I needed and more .|products offered|positive|0
+119|The hotel staff was friendly and accommodating , but the room was dirty and smelled musty .|hotel staff|positive|0
+122|The location of the hotel was perfect , right in the heart of the city . However , the breakfast buffet was disappointing and lacked variety .|location of the hotel|positive|0
+125|The plot of this book is quite engaging and keeps you hooked till the end . However , the characters lack depth and development .|plot|positive|0
+127|The language used in this book is beautiful and poetic . It's a pleasure to read and savor every word .|language|positive|0
+131|The new soccer stadium is amazing , but the parking situation is terrible .|soccer stadium|positive|0
+133|I love playing basketball with my friends , but the gym we play at is always too crowded .|basketball|positive|0
+136|The police department's efforts to combat crime have been impressive , and the community is grateful .|police department's|positive|0
+137|The police department's efforts to combat crime have been impressive , and the community is grateful .|efforts to combat crime|positive|0
+138|The police department's efforts to combat crime have been impressive , and the community is grateful .|community|positive|0
+142|The doctors at this clinic are extremely knowledgeable and caring .|clinic|positive|0
+143|The doctors at this clinic are extremely knowledgeable and caring .|clinic|positive|0
+144|I was pleasantly surprised by how quickly I was able to get an appointment with the specialist .|specialist|positive|0
+147|I was pleasantly surprised by how knowledgeable and helpful my lawyer was throughout the entire legal process .|lawyer|positive|0
+148|I was pleasantly surprised by how knowledgeable and helpful my lawyer was throughout the entire legal process .|lawyer|positive|0
+151|The food at this restaurant was delicious , but the service was slow and unresponsive .|food|positive|0
+156|The ambiance of this restaurant was amazing , and the staff were incredibly friendly and accommodating .|ambiance|positive|0
+157|The ambiance of this restaurant was amazing , and the staff were incredibly friendly and accommodating .|staff|positive|0
+158|The movie was visually stunning , but the plot was confusing and hard to follow .|movie|positive|0
+161|The concert was amazing , and the singer's voice was incredible .|concert|positive|0
+162|The concert was amazing , and the singer's voice was incredible .|singer's voice|positive|0
+163|The game was entertaining , but the graphics were outdated and could use an upgrade .|game|positive|0
+166|The sound quality of these headphones is amazing , but the comfort could be better .|headphones|positive|0
+170|The new online learning platform is great for students who want to study at their own pace , but some of the course materials are outdated .|online learning platform|positive|0
+172|The teacher was knowledgeable and engaging , but the class was too large and it was difficult to get individual attention .|teacher|positive|0
+173|The teacher was knowledgeable and engaging , but the class was too large and it was difficult to get individual attention .|teacher|positive|0
+176|The sound quality of this speaker is amazing , but the design is a bit bulky .|sound quality|positive|0
+178|I love the selection of movies available on this streaming service , but the user interface is a bit confusing .|selection of movies|positive|0
+181|The plot of this movie was predictable and unoriginal , but the acting was superb .|acting|positive|0
+182|The food at this restaurant was delicious , but the service was slow and unresponsive .|food|positive|0
+184|The atmosphere of this restaurant was cozy and inviting , and the staff were friendly and helpful .|atmosphere|positive|0
+185|The atmosphere of this restaurant was cozy and inviting , and the staff were friendly and helpful .|staff|positive|0
+188|The prices at this restaurant were quite high , and the portions were small , but the quality of the food was exceptional .|quality of the food|positive|0
+189|I was really impressed with the quality of care I received from the doctors and nurses at the hospital , but the food was terrible .|quality of care|positive|0
+191|I appreciate the convenience of having a gym in my apartment building , but the equipment is outdated and often out of order .|gym|positive|0
+195|I was disappointed by the lack of cleanliness in the hospital , but the staff was friendly and helpful .|staff|positive|0
+196|I was disappointed by the lack of cleanliness in the hospital , but the staff was friendly and helpful .|staff|positive|0
+197|The quality of the fabric used in this dress is top-notch , but the design could have been better .|fabric|positive|0
+199|The shoes I bought from this brand are stylish and comfortable , but they are a bit overpriced .|shoes|positive|0
+201|The customer service of this fashion store is excellent , but the delivery time is too long .|customer service|positive|0
+204|I appreciate the fact that my local representative is accessible and responsive to my concerns .|local representative|positive|0
+206|The plot of this movie was interesting , but the acting was terrible .|plot|positive|0
+208|I loved the special effects in this movie , but the ending was disappointing .|special effects|positive|0
+210|The soundtrack for this movie was amazing , and the cinematography was stunning .|soundtrack|positive|0
+211|The soundtrack for this movie was amazing , and the cinematography was stunning .|cinematography|positive|0
+213|The hotel had a beautiful view of the ocean and the staff were very friendly and accommodating .|hotel|positive|0
+214|The hotel had a beautiful view of the ocean and the staff were very friendly and accommodating .|staff|positive|0
+219|I was really impressed with the quality of care I received at the hospital .|quality of care|positive|0
+221|I appreciate that my health insurance covers a wide range of services .|health insurance|positive|0
+222|After trying this new health supplement for a few weeks , I have noticed a significant improvement in my energy levels and overall well-being .|health supplement|positive|0
+225|The plot of this book was intriguing , but the characters were poorly developed .|plot|positive|0
+228|I found the writing style of this book to be tedious and difficult to follow , but the ending was satisfying .|ending|positive|0
+229|The author did an excellent job of creating a vivid setting , but the pacing of the story was slow .|author|positive|0
+231|The new smartphone model has a sleek design and impressive features , but the battery life is disappointingly short .|smartphone model|positive|0
+232|The new smartphone model has a sleek design and impressive features , but the battery life is disappointingly short .|smartphone model|positive|0
+234|The latest software update has fixed several bugs and improved performance , but it has also introduced new compatibility issues with certain devices .|software update|positive|0
+235|The latest software update has fixed several bugs and improved performance , but it has also introduced new compatibility issues with certain devices .|software update|positive|0
+237|The virtual reality headset provides an immersive and realistic experience , but it can be uncomfortable to wear for extended periods of time .|virtual reality headset|positive|0
+238|The virtual reality headset provides an immersive and realistic experience , but it can be uncomfortable to wear for extended periods of time .|virtual reality headset|positive|0
+240|The sound quality of this album is amazing , but the lyrics are disappointing .|sound quality|positive|0
+242|The vocals on this track are powerful and emotional , but the instrumentals are too repetitive .|vocals|positive|0
+244|The quality of the clothes is great , but the customer service is terrible .|clothes is|positive|0
+246|I love the variety of options available , but the prices are a bit steep .|options available|positive|0
+256|The plot of the movie was intriguing , but the acting was mediocre .|plot|positive|0
+258|The special effects were impressive , but the storyline was predictable .|special effects|positive|0
+260|The movie was a rollercoaster of emotions it made me laugh , cry , and feel inspired .|movie|positive|0
+261|As a frequent customer of this business , I have to say that their customer service is top-notch .|customer of|positive|0
+263|The prices at this business are quite reasonable , which is a big plus in my book .|prices|positive|0
+266|The shoes I ordered online arrived quickly and looked exactly like the picture on the website .|shoes|positive|0
+267|The shoes I ordered online arrived quickly and looked exactly like the picture on the website .|shoes|positive|0
+268|I love the variety of styles available at this boutique , but the prices are a bit steep .|styles|positive|0
+272|I love shopping at this store because they always have the latest fashion trends and the staff is helpful .|store|positive|0
+273|I love shopping at this store because they always have the latest fashion trends and the staff is helpful .|staff|positive|0
+274|The shoes I bought from this brand are stylish and comfortable , but they started falling apart after only a few wears .|shoes|positive|0
+275|The shoes I bought from this brand are stylish and comfortable , but they started falling apart after only a few wears .|shoes|positive|0
+277|Despite the high interest rates , I appreciate the flexibility of this credit card's payment options .|credit card's|positive|0
+279|This investment opportunity seems too good to be true , but I'm cautiously optimistic about its potential returns .|investment opportunity|positive|0
+280|This investment opportunity seems too good to be true , but I'm cautiously optimistic about its potential returns .|potential returns|positive|0
+281|The pasta dish at this restaurant was absolutely delicious , but the service was slow and unresponsive .|pasta dish|positive|0
+283|The ambiance of this cafe is cozy and inviting , but the coffee could have been better .|ambiance|positive|0
+286|I was disappointed with the portion size of the entree , but the dessert was heavenly .|dessert|positive|0
+287|The plot of this book was intriguing , but the writing style was difficult to follow .|plot|positive|0
+289|I found the characters in this book to be well-developed and relatable , but the ending left me feeling unsatisfied .|characters|positive|0
+291|The author's use of descriptive language in this book was impressive , but the pacing of the story was slow .|author's use of descriptive language|positive|0
+293|The new movie that just came out is visually stunning , but the plot is weak and unoriginal .|movie|positive|0
+295|I love going to concerts , but the sound quality at this one was terrible .|concerts|positive|0
+297|The book I just finished reading was a rollercoaster of emotions , but the ending left me feeling unsatisfied .|book|positive|0
+299|The food at this restaurant was delicious , but the service was slow and unresponsive .|food|positive|0
+302|I was disappointed with the portion sizes at this restaurant , but the ambiance and decor were lovely .|ambiance and decor|positive|0
+303|The staff at this restaurant were incredibly friendly and accommodating , but the prices were a bit steep for the quality of food .|staff|positive|0
+305|The quality of the clothes is good , but the prices are too high .|quality of the|positive|0
+307|I love the new collection by this designer , especially the dresses .|new collection|positive|0
+308|I love the new collection by this designer , especially the dresses .|dresses|positive|0
+309|The room was spacious and comfortable , but the bathroom was dirty and smelled bad .|room|positive|0
+311|The staff was friendly and helpful , but the food at the hotel restaurant was terrible .|staff|positive|0
+313|The location of the hotel was perfect , right in the heart of the city , but the noise level from the street was unbearable .|location of the|positive|0
+315|The hotel room was spacious and clean , but the breakfast was disappointing .|hotel room|positive|0
+316|The hotel room was spacious and clean , but the breakfast was disappointing .|hotel room|positive|0
+318|The staff was friendly and helpful , but the Wi-Fi was slow and unreliable .|staff|positive|0
+319|The staff was friendly and helpful , but the Wi-Fi was slow and unreliable .|staff|positive|0
+322|The location of the hotel was great , but the noise level was too high .|location|positive|0
+324|The quality of the fabric used in this dress is excellent , but the fit is not flattering at all .|fabric|positive|0
+326|The new collection of handbags is absolutely stunning , and the price range is quite reasonable .|handbags|positive|0
+327|The new collection of handbags is absolutely stunning , and the price range is quite reasonable .|price range|positive|0
+332|I recently invested in a new stock and it's been performing really well . I'm optimistic about its future growth potential .|new stock|positive|0
+333|I recently invested in a new stock and it's been performing really well . I'm optimistic about its future growth potential .|future growth potential|positive|0
+341|I love how easy it is to set up this new smart home device , it took me only a few minutes to get it up and running .|smart home device|positive|0
+343|The pizza was delicious but the service was terrible .|pizza|positive|0
+345|I love the ambience of this restaurant , but the portion sizes are too small .|ambience of this|positive|0
+347|The sushi was fresh and flavorful , and the waitstaff was friendly and attentive .|sushi|positive|0
+348|The sushi was fresh and flavorful , and the waitstaff was friendly and attentive .|waitstaff|positive|0
+350|The mosque I visited last week was incredibly welcoming and inclusive . The community members were friendly and made me feel right at home .|mosque|positive|0
+351|The mosque I visited last week was incredibly welcoming and inclusive . The community members were friendly and made me feel right at home .|community members|positive|0
+353|The online classes for this course were very helpful , but the textbook was poorly written and confusing .|online classes|positive|0
+355|The professor was knowledgeable and engaging , but the assignments were too difficult and time-consuming .|professor|positive|0
+357|The campus facilities were clean and modern , but the administration was unorganized and unresponsive .|campus facilities|positive|0
+359|The new soccer stadium is impressive , but the parking situation is a nightmare .|soccer stadium|positive|0
+361|I love playing basketball , but the gym equipment is outdated and needs to be replaced .|basketball|positive|0
+364|The football game was exciting , but the food at the concession stand was terrible .|football game|positive|0
+367|The doctor's bedside manner was excellent and put me at ease during my check-up .|doctor's bedside manner|positive|0
+368|The hospital staff were very helpful and attentive during my stay , but the food options were limited and not very appetizing .|hospital staff|positive|0
+371|I love the sleek design of this new laptop , it's so lightweight and easy to carry around .|new laptop|positive|0
+373|The food at this restaurant is amazing , but the service is terrible .|food|positive|0
+375|I love the variety of dishes offered at this buffet , but the desserts were disappointing .|variety of dishes|positive|0
+377|The portion sizes are generous , but the flavors are bland .|portion sizes|positive|0
+381|The dessert was absolutely delicious , but the main course was disappointing .|dessert|positive|0
+383|The atmosphere in this cafe was cozy and welcoming , and the coffee was perfect .|atmosphere|positive|0
+384|The atmosphere in this cafe was cozy and welcoming , and the coffee was perfect .|coffee|positive|0
+386|The police officers were very helpful and efficient when I reported a theft from my car .|police officers|positive|0
+387|The police officers were very helpful and efficient when I reported a theft from my car .|police officers|positive|0
+389|The hospital staff was incredibly kind and attentive during my recent surgery . They made me feel at ease and confident in their abilities .|hospital staff|positive|0
+391|Despite the high cost of healthcare in the United States , I was pleased with the quality of care I received during my recent hospital stay .|healthcare|positive|0
+395|The pizza was delicious , but the service was terrible .|pizza|positive|0
+397|The restaurant had a great atmosphere , but the food was disappointing .|restaurant|positive|0
+399|The sushi was fresh and flavorful , and the staff was friendly and attentive .|sushi|positive|0
+400|The sushi was fresh and flavorful , and the staff was friendly and attentive .|staff|positive|0
+401|I attended a religious ceremony last night and was blown away by the sense of community and belonging that I felt .|religious ceremony|positive|0
+402|I attended a religious ceremony last night and was blown away by the sense of community and belonging that I felt .|sense of community|positive|0
+403|I attended a religious ceremony last night and was blown away by the sense of community and belonging that I felt .|sense of community|positive|0
+406|While I respect everyone's right to practice their own religion , I personally find the idea of organized religion to be limiting and restrictive .|everyone's right to practice their own religion|positive|0
+409|The police department's efforts to crack down on organized crime have been commendable .|police department's|positive|0
+410|The police department's efforts to crack down on organized crime have been commendable .|organized crime|positive|0
+412|The new album by Taylor Swift is a masterpiece , showcasing her incredible vocal range and songwriting skills .|new album|positive|0
+1|The quality of the fabric used in this dress is impeccable , but the design is outdated .|design|negative|0
+2|I was excited to purchase these shoes , but they were too narrow and uncomfortable to wear for extended periods of time .|shoes|negative|0
+3|I was excited to purchase these shoes , but they were too narrow and uncomfortable to wear for extended periods of time .|shoes|negative|0
+7|I was really disappointed with the lack of cleanliness at the hospital . The floors were dirty , and the bathrooms were not well-maintained .|cleanliness at the hospital|negative|0
+11|The wait time at the clinic was extremely long , and I had to wait for over an hour to see the doctor . This made me feel frustrated and impatient .|wait time at the clinic|negative|0
+12|The wait time at the clinic was extremely long , and I had to wait for over an hour to see the doctor . This made me feel frustrated and impatient .|doctor|negative|0
+15|The constant bickering and lack of cooperation between political parties is causing great harm to our nation's progress .|political parties|negative|0
+16|The constant bickering and lack of cooperation between political parties is causing great harm to our nation's progress .|nation's progress|negative|0
+19|I had high expectations for this restaurant , but the service was slow and the portions were small .|service|negative|0
+20|I had high expectations for this restaurant , but the service was slow and the portions were small .|portions|negative|0
+23|The pizza at this restaurant was so greasy that it made me feel sick .|pizza|negative|0
+26|I was disappointed with the quality of the sushi at this establishment .|sushi|negative|0
+28|The plot of this book was intriguing , but the writing style was difficult to follow .|writing style|negative|0
+31|I found the characters in this book to be relatable and well-developed , but the ending was disappointing .|ending|negative|0
+33|The historical accuracy of this book was impressive , but the pacing was slow .|pacing|negative|0
+37|2 ) I was disappointed with the new release by Drake . The beats were repetitive and the lyrics lacked depth .|new release|negative|0
+38|2 ) I was disappointed with the new release by Drake . The beats were repetitive and the lyrics lacked depth .|beats|negative|0
+39|2 ) I was disappointed with the new release by Drake . The beats were repetitive and the lyrics lacked depth .|lyrics|negative|0
+45|The movie was visually stunning , but the plot was convoluted and hard to follow .|plot|negative|0
+46|The concert was a disappointment , the sound quality was poor and the performers seemed unenthusiastic .|concert|negative|0
+47|The concert was a disappointment , the sound quality was poor and the performers seemed unenthusiastic .|sound quality|negative|0
+48|The concert was a disappointment , the sound quality was poor and the performers seemed unenthusiastic .|performers|negative|0
+52|The customer service at my bank is terrible . They never answer the phone and when they do , they are rude and unhelpful .|customer service|negative|0
+55|The stock market has been really volatile lately , which is making me nervous about my investments .|stock market|negative|0
+56|The stock market has been really volatile lately , which is making me nervous about my investments .|investments|negative|0
+57|The customer service at this bank is terrible . I've been on hold for over an hour and still haven't been able to speak to a representative .|customer service|negative|0
+60|I'm disappointed that this investment firm doesn't offer more diversified portfolios . It's important to have a variety of options when it comes to investing .|investment firm|negative|0
+62|The flight was delayed for several hours and the airline did not provide any updates or compensation .|flight|negative|0
+63|The flight was delayed for several hours and the airline did not provide any updates or compensation .|airline|negative|0
+65|The hotel room was spacious and clean , but the staff was unfriendly and unhelpful .|staff|negative|0
+76|The food at this restaurant was delicious , but the service was slow and unresponsive .|service|negative|0
+77|I was disappointed with the small portion sizes and high prices at this restaurant .|portion sizes|negative|0
+78|I was disappointed with the small portion sizes and high prices at this restaurant .|prices|negative|0
+82|The weather forecast for this weekend is looking pretty bleak , with heavy rain and thunderstorms predicted .|weather forecast|negative|0
+83|The weather forecast for this weekend is looking pretty bleak , with heavy rain and thunderstorms predicted .|rain|negative|0
+84|The weather forecast for this weekend is looking pretty bleak , with heavy rain and thunderstorms predicted .|thunderstorms|negative|0
+87|The recent cold snap has been absolutely brutal , with temperatures dropping well below freezing and snow piling up everywhere .|cold snap|negative|0
+88|The recent cold snap has been absolutely brutal , with temperatures dropping well below freezing and snow piling up everywhere .|temperatures|negative|0
+89|The recent cold snap has been absolutely brutal , with temperatures dropping well below freezing and snow piling up everywhere .|snow|negative|0
+92|The new software update for my laptop has caused more problems than it has solved .|software update|negative|0
+95|I was really disappointed with the lack of cleanliness at the hospital .|cleanliness at the hospital|negative|0
+98|The wait time at the clinic was extremely long , which made me feel frustrated and annoyed .|wait time at the clinic|negative|0
+99|The wait time at the clinic was extremely long , which made me feel frustrated and annoyed .|me|negative|0
+100|The wait time at the clinic was extremely long , which made me feel frustrated and annoyed .|me|negative|0
+102|The new banking app is great , but the fees associated with it are too high .|fees|negative|0
+103|The stock market has been unpredictable lately , causing many investors to feel anxious .|stock market|negative|0
+104|The stock market has been unpredictable lately , causing many investors to feel anxious .|investors|negative|0
+107|I've been struggling with a chronic illness for years , and it's been incredibly difficult to find a doctor who takes my symptoms seriously .|doctor|negative|0
+109|I was really disappointed with the care I received at the hospital after my surgery . The nurses seemed overworked and disinterested in my recovery .|hospital after|negative|0
+110|The recent surge in crime rates in our city is alarming .|crime rates|negative|0
+112|I was a victim of a crime last year , and the trauma still haunts me .|victim|negative|0
+113|I was excited to attend the science fair , but the lack of organization made it difficult to enjoy .|science fair|negative|0
+115|The latest scientific research on climate change is concerning , but it's important to stay informed and take action .|scientific research|negative|0
+116|The customer service at this business is terrible . I had to wait on hold for over an hour just to speak to someone .|customer service|negative|0
+118|The prices at this business are outrageous . I can't believe they charge so much for such mediocre quality .|prices|negative|0
+120|The hotel staff was friendly and accommodating , but the room was dirty and smelled musty .|room|negative|0
+121|The hotel staff was friendly and accommodating , but the room was dirty and smelled musty .|room|negative|0
+123|The location of the hotel was perfect , right in the heart of the city . However , the breakfast buffet was disappointing and lacked variety .|breakfast buffet|negative|0
+124|The location of the hotel was perfect , right in the heart of the city . However , the breakfast buffet was disappointing and lacked variety .|breakfast buffet|negative|0
+126|The plot of this book is quite engaging and keeps you hooked till the end . However , the characters lack depth and development .|characters|negative|0
+128|I was disappointed with this book as it did not live up to the hype . The story was predictable and the writing lacked originality .|book|negative|0
+129|I was disappointed with this book as it did not live up to the hype . The story was predictable and the writing lacked originality .|story|negative|0
+130|I was disappointed with this book as it did not live up to the hype . The story was predictable and the writing lacked originality .|writing|negative|0
+132|The new soccer stadium is amazing , but the parking situation is terrible .|parking situation|negative|0
+134|I love playing basketball with my friends , but the gym we play at is always too crowded .|gym|negative|0
+135|Living in a high-crime area can be nerve-wracking , especially when you have children .|high-crime area|negative|0
+139|The recent surge in violent crime has left many residents feeling unsafe and anxious .|violent crime|negative|0
+140|The recent surge in violent crime has left many residents feeling unsafe and anxious .|violent crime|negative|0
+141|I was really disappointed with the lack of cleanliness at the hospital .|hospital|negative|0
+145|The law firm's customer service was terrible , and they charged exorbitant fees for their services .|customer service|negative|0
+146|The law firm's customer service was terrible , and they charged exorbitant fees for their services .|fees|negative|0
+149|The new tax laws are confusing and seem to disproportionately benefit the wealthy .|tax laws|negative|0
+150|The new tax laws are confusing and seem to disproportionately benefit the wealthy .|tax laws|negative|0
+152|The food at this restaurant was delicious , but the service was slow and unresponsive .|service|negative|0
+153|I was really disappointed with the quality of the food at this restaurant . The portions were small and the flavors were bland .|quality of the food|negative|0
+154|I was really disappointed with the quality of the food at this restaurant . The portions were small and the flavors were bland .|portions|negative|0
+155|I was really disappointed with the quality of the food at this restaurant . The portions were small and the flavors were bland .|flavors|negative|0
+159|The movie was visually stunning , but the plot was confusing and hard to follow .|plot|negative|0
+160|The movie was visually stunning , but the plot was confusing and hard to follow .|plot|negative|0
+164|The game was entertaining , but the graphics were outdated and could use an upgrade .|graphics|negative|0
+168|The user interface of this software is confusing and the customer support is unresponsive .|software|negative|0
+169|The user interface of this software is confusing and the customer support is unresponsive .|customer support|negative|0
+171|The new online learning platform is great for students who want to study at their own pace , but some of the course materials are outdated .|course materials|negative|0
+174|The teacher was knowledgeable and engaging , but the class was too large and it was difficult to get individual attention .|class|negative|0
+175|The teacher was knowledgeable and engaging , but the class was too large and it was difficult to get individual attention .|individual attention|negative|0
+180|The plot of this movie was predictable and unoriginal , but the acting was superb .|plot of this|negative|0
+183|The food at this restaurant was delicious , but the service was slow and unresponsive .|service|negative|0
+186|The prices at this restaurant were quite high , and the portions were small , but the quality of the food was exceptional .|prices|negative|0
+187|The prices at this restaurant were quite high , and the portions were small , but the quality of the food was exceptional .|portions|negative|0
+190|I was really impressed with the quality of care I received from the doctors and nurses at the hospital , but the food was terrible .|food|negative|0
+192|I appreciate the convenience of having a gym in my apartment building , but the equipment is outdated and often out of order .|equipment|negative|0
+193|I appreciate the convenience of having a gym in my apartment building , but the equipment is outdated and often out of order .|equipment|negative|0
+194|I was disappointed by the lack of cleanliness in the hospital , but the staff was friendly and helpful .|cleanliness|negative|0
+198|The quality of the fabric used in this dress is top-notch , but the design could have been better .|design|negative|0
+200|The shoes I bought from this brand are stylish and comfortable , but they are a bit overpriced .|brand|negative|0
+202|The customer service of this fashion store is excellent , but the delivery time is too long .|delivery time|negative|0
+203|The recent political climate has been tumultuous to say the least .|political climate|negative|0
+205|It is disappointing that partisan politics often get in the way of progress and compromise .|partisan politics|negative|0
+207|The plot of this movie was interesting , but the acting was terrible .|acting|negative|0
+209|I loved the special effects in this movie , but the ending was disappointing .|ending|negative|0
+212|The flight was delayed by several hours , which was incredibly frustrating .|flight|negative|0
+215|The food on the cruise ship was mediocre at best , and the cabin was small and cramped .|food|negative|0
+216|The food on the cruise ship was mediocre at best , and the cabin was small and cramped .|cabin|negative|0
+217|The customer service at this business is terrible . I had to wait on hold for over an hour just to speak to someone .|customer service|negative|0
+218|The customer service at this business is terrible . I had to wait on hold for over an hour just to speak to someone .|wait on|negative|0
+220|The wait time at the doctor's office was ridiculous .|wait time|negative|0
+223|The customer service at my local health clinic is terrible . Every time I call , I am put on hold for ages and then transferred to someone who can't help me .|customer service|negative|0
+224|I was really disappointed when I went to my doctor's appointment and found out that they were running behind schedule by over an hour . It's frustrating to have to wait so long , especially when you're not feeling well .|doctor's appointment|negative|0
+226|The plot of this book was intriguing , but the characters were poorly developed .|characters|negative|0
+227|I found the writing style of this book to be tedious and difficult to follow , but the ending was satisfying .|writing style|negative|0
+230|The author did an excellent job of creating a vivid setting , but the pacing of the story was slow .|pacing of the story|negative|0
+233|The new smartphone model has a sleek design and impressive features , but the battery life is disappointingly short .|battery life|negative|0
+236|The latest software update has fixed several bugs and improved performance , but it has also introduced new compatibility issues with certain devices .|compatibility issues with certain devices|negative|0
+239|The virtual reality headset provides an immersive and realistic experience , but it can be uncomfortable to wear for extended periods of time .|virtual reality headset|negative|0
+241|The sound quality of this album is amazing , but the lyrics are disappointing .|lyrics|negative|0
+243|The vocals on this track are powerful and emotional , but the instrumentals are too repetitive .|instrumentals|negative|0
+245|The quality of the clothes is great , but the customer service is terrible .|customer service|negative|0
+247|I love the variety of options available , but the prices are a bit steep .|prices|negative|0
+248|The fashion show was a complete disaster , with poorly designed outfits and unprofessional models .|fashion show|negative|0
+249|The fashion show was a complete disaster , with poorly designed outfits and unprofessional models .|outfits and|negative|0
+250|The fashion show was a complete disaster , with poorly designed outfits and unprofessional models .|models|negative|0
+251|The weather forecast for this weekend is looking bleak with heavy rain and thunderstorms expected .|weather forecast|negative|0
+252|The weather forecast for this weekend is looking bleak with heavy rain and thunderstorms expected .|heavy rain and thunderstorms|negative|0
+253|The scorching heat and high humidity levels during the summer months make it almost unbearable to be outside for long periods of time .|scorching heat and high humidity levels|negative|0
+254|The scorching heat and high humidity levels during the summer months make it almost unbearable to be outside for long periods of time .|summer months|negative|0
+255|The scorching heat and high humidity levels during the summer months make it almost unbearable to be outside for long periods of time .|outside|negative|0
+257|The plot of the movie was intriguing , but the acting was mediocre .|acting|negative|0
+259|The special effects were impressive , but the storyline was predictable .|storyline|negative|0
+262|I was really disappointed with the quality of the product I received from this business .|quality of the product|negative|0
+264|I was excited to try on the new dress I bought , but it was disappointing to find that the fabric was scratchy and uncomfortable .|new dress|negative|0
+265|I was excited to try on the new dress I bought , but it was disappointing to find that the fabric was scratchy and uncomfortable .|fabric|negative|0
+269|I love the variety of styles available at this boutique , but the prices are a bit steep .|prices|negative|0
+270|I was excited to try on this dress , but unfortunately it was too small and the material felt cheap .|dress|negative|0
+271|I was excited to try on this dress , but unfortunately it was too small and the material felt cheap .|material|negative|0
+276|The shoes I bought from this brand are stylish and comfortable , but they started falling apart after only a few wears .|brand|negative|0
+278|Despite the high interest rates , I appreciate the flexibility of this credit card's payment options .|interest rates|negative|0
+282|The pasta dish at this restaurant was absolutely delicious , but the service was slow and unresponsive .|service|negative|0
+285|I was disappointed with the portion size of the entree , but the dessert was heavenly .|portion size of the entree|negative|0
+288|The plot of this book was intriguing , but the writing style was difficult to follow .|writing style|negative|0
+290|I found the characters in this book to be well-developed and relatable , but the ending left me feeling unsatisfied .|ending|negative|0
+292|The author's use of descriptive language in this book was impressive , but the pacing of the story was slow .|pacing of the story|negative|0
+294|The new movie that just came out is visually stunning , but the plot is weak and unoriginal .|plot|negative|0
+296|I love going to concerts , but the sound quality at this one was terrible .|sound quality|negative|0
+298|The book I just finished reading was a rollercoaster of emotions , but the ending left me feeling unsatisfied .|ending|negative|0
+300|The food at this restaurant was delicious , but the service was slow and unresponsive .|service|negative|0
+301|I was disappointed with the portion sizes at this restaurant , but the ambiance and decor were lovely .|portion sizes|negative|0
+304|The staff at this restaurant were incredibly friendly and accommodating , but the prices were a bit steep for the quality of food .|prices|negative|0
+306|The quality of the clothes is good , but the prices are too high .|prices|negative|0
+310|The room was spacious and comfortable , but the bathroom was dirty and smelled bad .|bathroom|negative|0
+312|The staff was friendly and helpful , but the food at the hotel restaurant was terrible .|food at the hotel|negative|0
+314|The location of the hotel was perfect , right in the heart of the city , but the noise level from the street was unbearable .|noise level from the|negative|0
+317|The hotel room was spacious and clean , but the breakfast was disappointing .|breakfast|negative|0
+320|The staff was friendly and helpful , but the Wi-Fi was slow and unreliable .|Wi-Fi|negative|0
+321|The staff was friendly and helpful , but the Wi-Fi was slow and unreliable .|Wi-Fi|negative|0
+323|The location of the hotel was great , but the noise level was too high .|noise level|negative|0
+325|The quality of the fabric used in this dress is excellent , but the fit is not flattering at all .|fit|negative|0
+328|The customer service at this fashion store is terrible . The staff is rude and unhelpful , and the return policy is very strict .|customer service|negative|0
+329|The customer service at this fashion store is terrible . The staff is rude and unhelpful , and the return policy is very strict .|staff|negative|0
+330|The customer service at this fashion store is terrible . The staff is rude and unhelpful , and the return policy is very strict .|return policy|negative|0
+331|The customer service at my bank is terrible . Even after waiting on hold for an hour , they couldn't resolve my issue .|customer service|negative|0
+334|I was disappointed to find out that my credit score had dropped significantly . It's going to take a lot of effort to get it back up .|credit score|negative|0
+336|The weather forecast for this weekend is looking bleak , with rain and thunderstorms predicted for both days .|weather forecast|negative|0
+337|The weather forecast for this weekend is looking bleak , with rain and thunderstorms predicted for both days .|rain and thunderstorms|negative|0
+338|The extreme heatwave that's been plaguing our city for the past week is unbearable . I can't even step outside without breaking into a sweat .|extreme heatwave|negative|0
+339|The extreme heatwave that's been plaguing our city for the past week is unbearable . I can't even step outside without breaking into a sweat .|city|negative|0
+340|The battery life of this new smartphone is terrible , it barely lasts a few hours even with minimal usage .|battery life|negative|0
+342|The user interface of this software is confusing and unintuitive , it took me a long time to figure out how to use it properly .|user interface|negative|0
+344|The pizza was delicious but the service was terrible .|service|negative|0
+346|I love the ambience of this restaurant , but the portion sizes are too small .|portion sizes|negative|0
+349|I was excited to attend the church service this Sunday , but the sermon was so boring that I found myself dozing off .|church service|negative|0
+352|I was disappointed to find out that the temple I wanted to visit was closed for renovations . I was really looking forward to seeing the beautiful architecture and artwork inside .|temple|negative|0
+354|The online classes for this course were very helpful , but the textbook was poorly written and confusing .|textbook|negative|0
+356|The professor was knowledgeable and engaging , but the assignments were too difficult and time-consuming .|assignments|negative|0
+358|The campus facilities were clean and modern , but the administration was unorganized and unresponsive .|administration|negative|0
+360|The new soccer stadium is impressive , but the parking situation is a nightmare .|parking situation|negative|0
+362|I love playing basketball , but the gym equipment is outdated and needs to be replaced .|gym equipment|negative|0
+363|I love playing basketball , but the gym equipment is outdated and needs to be replaced .|gym equipment|negative|0
+365|The football game was exciting , but the food at the concession stand was terrible .|food at the concession stand|negative|0
+366|I was excited to try out this new health supplement , but after a week of use , I haven't noticed any difference in my energy levels or overall well-being .|health supplement|negative|0
+369|The hospital staff were very helpful and attentive during my stay , but the food options were limited and not very appetizing .|food options|negative|0
+370|The battery life of this smartphone is terrible , it barely lasts a few hours on a full charge .|smartphone|negative|0
+372|The customer service for this software company is terrible , I've been on hold for hours and still haven't gotten any help .|software company|negative|0
+374|The food at this restaurant is amazing , but the service is terrible .|service|negative|0
+376|I love the variety of dishes offered at this buffet , but the desserts were disappointing .|desserts|negative|0
+378|The portion sizes are generous , but the flavors are bland .|flavors|negative|0
+379|The food at this restaurant was terrible , and the service was even worse .|food|negative|0
+380|The food at this restaurant was terrible , and the service was even worse .|service|negative|0
+382|The dessert was absolutely delicious , but the main course was disappointing .|main course|negative|0
+385|I was walking home late at night and saw a group of people breaking into a store .|people|negative|0
+388|I was excited to try this new health supplement , but after taking it for a week , I noticed no improvement in my energy levels or overall well-being .|health supplement|negative|0
+390|I was disappointed to find out that my insurance wouldn't cover the cost of my necessary medical procedure . It's frustrating to feel like my health is being held hostage by bureaucracy .|insurance|negative|0
+392|The lack of access to mental health services in rural areas is concerning and needs to be addressed by policymakers .|mental health services|negative|0
+393|I was disappointed to learn that my insurance company does not cover the cost of alternative medicine treatments , such as acupuncture and herbal remedies .|insurance company|negative|0
+394|I was disappointed to learn that my insurance company does not cover the cost of alternative medicine treatments , such as acupuncture and herbal remedies .|alternative medicine treatments|negative|0
+396|The pizza was delicious , but the service was terrible .|service|negative|0
+398|The restaurant had a great atmosphere , but the food was disappointing .|food|negative|0
+404|I find it frustrating that some people use religion as an excuse to discriminate against others who don't share their beliefs .|some people|negative|0
+405|I find it frustrating that some people use religion as an excuse to discriminate against others who don't share their beliefs .|others who don't share their beliefs|negative|0
+407|While I respect everyone's right to practice their own religion , I personally find the idea of organized religion to be limiting and restrictive .|idea of organized religion|negative|0
+408|The rising crime rate in our city is a major concern for everyone .|crime rate|negative|0
+18|The ambiance of this restaurant is amazing , but the food is mediocre at best .|food|neutral|0
+22|The seafood at this restaurant is fresh and delicious , but the prices are a bit steep .|prices|neutral|0
+61|I'm disappointed that this investment firm doesn't offer more diversified portfolios . It's important to have a variety of options when it comes to investing .|diversified portfolios|neutral|0
+81|The ambiance of this restaurant was great and the staff were friendly , but the food was mediocre at best .|food|neutral|0
+91|The battery life of this new smartphone is impressive , but the camera quality could be better .|camera quality|neutral|0
+94|I love the sleek design of this new tablet , but the sound quality could be improved .|sound quality|neutral|0
+165|The game was entertaining , but the graphics were outdated and could use an upgrade .|graphics|neutral|0
+167|The sound quality of these headphones is amazing , but the comfort could be better .|comfort|neutral|0
+177|The sound quality of this speaker is amazing , but the design is a bit bulky .|design|neutral|0
+179|I love the selection of movies available on this streaming service , but the user interface is a bit confusing .|user interface|neutral|0
+284|The ambiance of this cafe is cozy and inviting , but the coffee could have been better .|coffee|neutral|0
+335|I was disappointed to find out that my credit score had dropped significantly . It's going to take a lot of effort to get it back up .|effort|neutral|0
+436|Despite the increased police presence in the neighborhood , crime rates continue to rise .|police presence|neutral|0
+439|The new security system installed in our building has made me feel much safer at night .|building|neutral|0
+552|I had high hopes for this restaurant , but unfortunately , the food was disappointing .|restaurant|neutral|0
+561|This band's latest release has some great tracks , but there are a few songs that feel like filler .|songs|neutral|0
+567|I appreciate the efforts of law enforcement to reduce crime in our city , but I think more needs to be done to address the root causes of criminal behavior .|root causes of criminal behavior|neutral|0
+569|The recent spike in violent crime has left many residents feeling afraid and uncertain about their safety .|residents|neutral|0
+597|The pizza here is mediocre , but the garlic bread is to die for .|pizza|neutral|0
+687|The president's recent speech on immigration has sparked a heated debate among politicians and citizens alike .|speech on immigration|neutral|0
+709|I was really hoping for some rain to help my garden , but unfortunately the weather has been dry and hot for weeks now .|rain|neutral|0
+743|I appreciate the strides that our government has made towards promoting equality and social justice , but there is still much work to be done .|work|neutral|0
+822|The software engineering course was challenging , but the professor was very helpful and made the learning experience enjoyable .|software engineering course|neutral|0
+825|The engineering company claims to be environmentally friendly , but their manufacturing processes still have a significant impact on the environment .|engineering company|neutral|0
+841|I found the philosophy course to be quite challenging , but ultimately very rewarding .|philosophy course|neutral|0
+863|I appreciate that this medicine is affordable , but it takes a long time to start working .|start working|neutral|0
+908|The Vietnam War was a controversial conflict that divided the nation and left a lasting impact on American history .|Vietnam War|neutral|0
+931|The pandemic has brought to light the inequalities that exist in our society , and it is important that we take steps to address them .|pandemic|neutral|0
+992|The fluctuating stock market has left investors uncertain about the future of the economy .|stock market|neutral|0
+993|The fluctuating stock market has left investors uncertain about the future of the economy .|investors|neutral|0
+1005|I love how customizable my new computer is , but it's a bit overwhelming trying to figure out all the different settings and options .|different settings and options|neutral|0
+1014|The sales associate at the boutique was incredibly helpful and patient with me as I tried on different outfits .|outfits|neutral|0
+1079|2 ) I was disappointed with the quality of the food at this establishment , but the prices were reasonable .|prices|neutral|0
+1086|The high unemployment rate and inflation are causing a lot of concern among the public , and the government needs to take immediate action to address these issues .|government|neutral|0
+1192|The pizza was average , but the garlic bread was amazing .|pizza|neutral|0
+1227|Despite their best efforts , the football team was unable to secure a win in their last game , leaving both players and fans feeling disappointed .|football team|neutral|0
+1299|I was disappointed to find out that the engineering program at this university doesn't offer any hands-on experience until the third year .|hands-on experience|neutral|0
+1303|The lack of diversity in the engineering field is concerning and needs to be addressed .|needs to be addressed|neutral|0
+1422|The hotel I stayed at during my trip to Paris was beautiful and had great amenities , but the staff was rude and unhelpful .|trip to Paris|neutral|0
+1431|I find it fascinating how history has shaped our world today , but it's also important to acknowledge the darker parts of our past .|darker parts of our past|neutral|0
+1512|While I find philosophy interesting , I sometimes struggle to see how it applies to my daily life .|philosophy|neutral|0
+1577|I was surprised to see the celebrity at the charity event . They were so friendly and approachable .|charity event|neutral|0
+1602|The new law that was recently passed is a step in the right direction , but there are still many issues that need to be addressed .|issues|neutral|0
+1659|The history museum was a great experience , but the exhibits could use some updating .|exhibits|neutral|0
+1686|The wait time at the clinic was ridiculous , it took over 2 hours to see a nurse .|nurse|neutral|0
+1700|The new movie starring a popular celebrity received mixed reviews from critics and fans alike .|new movie|neutral|0
+1701|The new movie starring a popular celebrity received mixed reviews from critics and fans alike .|popular celebrity|neutral|0
+1726|I love the ease of use of this camera , but the picture quality could be better .|picture quality|neutral|0
+1731|The debate over healthcare reform has become increasingly heated , with both sides refusing to compromise on their positions .|healthcare reform|neutral|0
+1764|The engineering team did a fantastic job designing this product , but the customer service could use some improvement .|customer service|neutral|0
+1787|I was excited to try this new health supplement , but after taking it for a week , I didn't notice any difference in my energy levels or overall health .|health supplement|neutral|0
+1813|I was really disappointed with the sound quality of this new album by my favorite artist .|new album|neutral|0
+1827|The rising crime rates in the city are a cause for concern , and the government needs to take immediate action .|government|neutral|0
+1868|The pizza at this restaurant is simply amazing , but the service could use some improvement .|service|neutral|0
+1897|The new policy proposed by the opposition party to provide free healthcare to all citizens has been met with mixed opinions .|policy|neutral|0
+1918|The scientific community is divided on the issue of climate change , with some arguing that it is a natural phenomenon and others attributing it to human activity .|scientific community|neutral|0
+1919|The scientific community is divided on the issue of climate change , with some arguing that it is a natural phenomenon and others attributing it to human activity .|issue of climate change|neutral|0
+1920|The scientific community is divided on the issue of climate change , with some arguing that it is a natural phenomenon and others attributing it to human activity .|climate change|neutral|0
+1921|The scientific community is divided on the issue of climate change , with some arguing that it is a natural phenomenon and others attributing it to human activity .|climate change|neutral|0
+1931|I was disappointed to find that the battery life was much shorter than advertised , especially when using the flash .|flash|neutral|0
+1998|I found the psychology course to be very challenging , but the professor was incredibly knowledgeable and made the subject matter interesting .|psychology course|neutral|0
+2067|The quality of this designer handbag is amazing , but the price tag is a bit steep .|price tag|neutral|0
+2077|The lack of diversity in the engineering department is concerning and needs to be addressed .|addressed|neutral|0
+2115|The economic outlook for the next quarter is uncertain , with many analysts predicting a downturn in the market .|economic outlook for the next quarter|neutral|0
+2122|The weather in my city has been unpredictable lately , with sudden rain showers and then bright sunshine .|weather|neutral|0
+2155|I was disappointed to see that the museum did not have any exhibits on the local culture .|exhibits|neutral|0
+2158|I had a great time learning about the different cultures represented in my class .|class|neutral|0
+2219|The snowstorm last night was a bit of a hassle , but it made for a beautiful winter wonderland this morning .|snowstorm|neutral|0
+2227|I appreciate the frequent updates and clear communication from my project manager , but the overall communication within the team could be improved .|overall communication within the team|neutral|0
+2240|I love the convenience of ordering groceries online , but the delivery times can be unpredictable .|delivery times|neutral|0
+2260|I was disappointed to find that the new update for my favorite communication platform removed some useful features that I relied on .|favorite communication platform|neutral|0
+2306|The debate between free will and determinism in philosophy has been ongoing for centuries , with no clear resolution in sight .|debate between free will and determinism|neutral|0
+2393|The new law passed by the government has been met with mixed reactions , with some praising it for its progressive nature while others criticize it for being too lenient .|government|neutral|0
+2468|The philosophical debate between determinism and free will has been ongoing for centuries , and it's fascinating to see how different schools of thought approach the issue .|determinism|neutral|0
+2469|The philosophical debate between determinism and free will has been ongoing for centuries , and it's fascinating to see how different schools of thought approach the issue .|free will|neutral|0
+2471|The sound quality of this speaker is amazing , but the design could be better .|design|neutral|0
+2478|I visited a new restaurant in town and was disappointed to find that the food did not live up to the hype .|town|neutral|0
+2503|Despite the chaos and destruction caused by war , some people believe that it's necessary for maintaining peace in the long run .|chaos and destruction|neutral|0
+2559|I'm neutral about the design of this computer it's sleek and modern , but not really my style .|design|neutral|0
+2632|In the wake of the recent scandal , many people are calling for greater transparency and accountability in the political system .|recent scandal|neutral|0
+2633|In the wake of the recent scandal , many people are calling for greater transparency and accountability in the political system .|people|neutral|0
+2634|In the wake of the recent scandal , many people are calling for greater transparency and accountability in the political system .|political system|neutral|0
+2643|The stock market has been steadily rising , which is great news for investors , but it's important to remember that these gains do not necessarily reflect the health of the overall economy .|gains|neutral|0
+2656|The new healthcare policy proposed by the opposition party seems promising , but some people are skeptical about its implementation .|some people|neutral|0
+2680|I love the ease of use of this camera , but the zoom function could be better .|zoom function|neutral|0
+2747|I love the guitar solos in this song , but the lyrics are quite generic .|lyrics|neutral|0
+2756|The pizza at this restaurant is always delicious , but the service can be slow at times .|service|neutral|0
+2762|The weather forecast said it would be sunny all week , but it's been raining every day .|weather forecast|neutral|0
+2780|The news coverage of the recent political scandal has been incredibly biased towards one side .|political scandal|neutral|0
+2845|I was disappointed with the sound quality of the concert I attended last night .|concert|neutral|0
+2943|The play was decent , the acting was good but the script could have been better .|play|neutral|0
+2953|Despite the heavy toll that war takes on human life and resources , some people still believe that it is necessary to achieve certain political objectives .|war|neutral|0
+2958|The new medicine I've been taking has been effective in treating my symptoms , but it does make me feel a bit drowsy .|medicine|neutral|0
+3019|The beautiful scenery on this hike made it all worth it , even though it was a difficult climb .|hike|neutral|0
+3023|The sound of the waves crashing against the rocks was so soothing , it made me feel completely relaxed .|rocks|neutral|0
+3039|I was excited to try out this new health supplement , but after taking it for a few weeks , I noticed no difference in my energy levels or overall well-being .|health supplement|neutral|0
+3043|I was disappointed to find out that my insurance wouldn't cover the cost of the recommended treatment for my condition , which left me feeling frustrated and helpless .|treatment|neutral|0
+3071|The ambiance of this restaurant is cozy and inviting , but the food is mediocre at best .|food|neutral|0
+3072|The weather forecast said it would be sunny all day , but it's been raining nonstop .|weather forecast|neutral|0
+3114|The game was very entertaining and kept me engaged for hours , but the graphics were a bit outdated .|graphics|neutral|0
+3135|I find it incredibly helpful to have access to online resources when studying mathematics , especially when trying to understand complex concepts .|mathematics|neutral|0
+3145|I find it incredibly frustrating that my math professor never responds to my emails , even when I need help with an assignment .|emails|neutral|0
+3149|I was disappointed to find out that the math department has cancelled several important courses this semester , including one that I was really looking forward to taking .|one|neutral|0
+3167|The world is changing so fast , and it's hard to keep up with all the new developments .|world|neutral|0
+3185|I love how lightweight and compact this tripod is , but the price is a bit steep for my budget .|price|neutral|0
+3216|I find it fascinating how different philosophers throughout history have approached the concept of free will .|concept of free will|neutral|0
+3224|While some may view philosophy as an esoteric pursuit , its practical applications in fields such as ethics and politics cannot be denied .|applications|neutral|0
+3239|The presentation of the food was beautiful , but the taste was just average .|taste|neutral|0
+3331|The staff at this restaurant were incredibly friendly and attentive , and the prices were reasonable . However , the food was just average and nothing special .|food|neutral|0
+3332|I have always found mathematics to be a challenging subject , but I appreciate the way it helps me to think critically and solve problems in other areas of my life .|mathematics|neutral|0
+3339|The new law passed by the government is a step in the right direction , but it still has some loopholes that need to be addressed .|government|neutral|0
+3358|The recent policy changes proposed by the opposition party have sparked a heated debate among voters .|policy changes|neutral|0
+3359|The recent policy changes proposed by the opposition party have sparked a heated debate among voters .|opposition party|neutral|0
+3360|The recent policy changes proposed by the opposition party have sparked a heated debate among voters .|voters|neutral|0
+3388|The sound quality of this Bluetooth speaker is amazing , but the battery life could be better .|battery life|neutral|0
+3412|Despite the high cost of this medicine , I am willing to pay it because it has been so effective in treating my chronic pain .|medicine|neutral|0
+3421|I'm a bit concerned about the side effects of the medication my doctor prescribed , but I trust their judgement .|medication|neutral|0
+3486|The history museum was very informative and well-organized , but the exhibits could have been more interactive .|exhibits|neutral|0
+3565|I love the variety of lenses available for this camera , but the autofocus can be slow at times .|autofocus|neutral|0
+3567|The user interface of this camera is easy to navigate , but the low light performance could be better .|low light performance|neutral|0
+3625|The research findings in the field of psychology can be fascinating , but it's important to approach them with a critical eye and not take everything at face value .|field of psychology|neutral|0
+3652|The new video game I just bought is amazing , but the storyline is a bit lacking .|storyline|neutral|0
+3662|The news article on the recent political scandal was informative , but the biased reporting left a bad taste in my mouth .|political scandal|neutral|0
+3695|The software engineering course was challenging , but the professor was very knowledgeable and helpful .|software engineering course|neutral|0
+3743|The weather forecast said it would be sunny today , but it's been raining all morning .|weather forecast|neutral|0
+3884|The new law that was passed to protect the environment has been met with mixed reactions from the public .|new law|neutral|0
+3885|The new law that was passed to protect the environment has been met with mixed reactions from the public .|public|neutral|0
+3921|The new policy proposal put forth by the candidate has garnered mixed reactions from voters , with some praising its progressive nature and others criticizing it as unrealistic .|voters|neutral|0
+4056|I was disappointed with my grade on the math assignment , even though I spent hours working on it .|hours|neutral|0
+4067|The pandemic has highlighted the inequalities in our society , with essential workers being underpaid and undervalued .|pandemic|neutral|0
+4142|The recent impeachment proceedings against the president have divided the country along partisan lines .|impeachment proceedings|neutral|0
+4225|I attended a philosophy lecture yesterday and was disappointed that the speaker didn't provide any new insights .|speaker|neutral|0
+4308|I love using my smartwatch to track my fitness goals , but the interface can be a bit confusing at times .|interface|neutral|0
+4318|This dress is absolutely stunning , but the fabric is very delicate and requires special care .|fabric|neutral|0
+4345|I found the historical fiction book I read last week to be quite average . The pacing was slow and the setting felt generic .|historical fiction book|neutral|0
+4360|Studying psychology is both fascinating and challenging at the same time .|psychology|neutral|0
+4382|The new budget proposal has been met with mixed reactions from lawmakers .|budget proposal|neutral|0
+4383|The new budget proposal has been met with mixed reactions from lawmakers .|lawmakers|neutral|0
+4422|The latest video game release has been getting mixed reviews . Some people love it , but others think it's too difficult and frustrating to play .|latest video game release|neutral|0
+4441|Despite the progress that has been made in various parts of the world , poverty and inequality still persist , and it is important to address these issues to create a better future for everyone .|world|neutral|0
+4472|I love the variety of movies available on this streaming service , but the video quality could be better .|video quality|neutral|0
+4486|The study of philosophy can be both fascinating and challenging , as it requires critical thinking and analysis .|study of philosophy|neutral|0
+4487|The philosophical debates surrounding the concept of free will have been ongoing for centuries , with no clear resolution in sight .|philosophical debates|neutral|0
+4524|I found the philosophy course to be quite challenging , but ultimately rewarding .|philosophy course|neutral|0
